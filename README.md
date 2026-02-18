@@ -97,4 +97,3 @@ Tests use [ScalaTest](https://www.scalatest.org/) and [Scalactic](https://www.sc
 - `cartesianProduct` and `join` are declared but not implemented (`???`)
 - `query_3` does not return `CustomerName` (cross-table join was not implemented)
 - All data is immutable; every operation returns a new object
-# Mini-SQL-Query-Language-Scala
